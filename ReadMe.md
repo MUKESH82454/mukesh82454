@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: 
+🔭 I’m currently working on mastering the art of full-stack development!
+🌱 I’m currently learning advanced MERN stack techniques.
+👯 I’m looking to collaborate on innovative web projects.
+🤔 I’m looking for help with optimizing React performance.
+💬 Ask me about on full-stack development!
 
 
 ## 🌐 Socials:
