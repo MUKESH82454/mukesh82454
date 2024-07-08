@@ -1,5 +1,5 @@
 
-![MasterHead]("./your-header-image-name.png")
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=+Hi+there+%F0%9F%91%8B%2C++I'am+Dheeravathu+Mukesh;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
