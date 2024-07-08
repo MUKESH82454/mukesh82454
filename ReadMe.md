@@ -1,9 +1,9 @@
-# 💫 About Me: 
-🔭 I’m currently working on mastering the art of full-stack development!
-🌱 I’m currently learning advanced MERN stack techniques.
-👯 I’m looking to collaborate on innovative web projects.
-🤔 I’m looking for help with optimizing React performance.
-💬 Ask me about on full-stack development!
+# 💫 About Me:<br>
+🔭 I’m currently working on mastering the art of full-stack development!<br>
+🌱 I’m currently learning advanced MERN stack techniques.<br>
+👯 I’m looking to collaborate on innovative web projects.<br>
+🤔 I’m looking for help with optimizing React performance.<br>
+💬 Ask me about on full-stack development!<br>
 
 
 ## 🌐 Socials:
